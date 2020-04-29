@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\Morse 1\Morse 1\bin\Debug\Morse 1.exe.config
+C:\Users\Soma\Documents\C#2\Morse 1\Morse 1\bin\Debug\Morse 1.exe
+C:\Users\Soma\Documents\C#2\Morse 1\Morse 1\bin\Debug\Morse 1.pdb
+C:\Users\Soma\Documents\C#2\Morse 1\Morse 1\obj\Debug\Morse 1.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\Morse 1\Morse 1\obj\Debug\Morse 1.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\Morse 1\Morse 1\obj\Debug\Morse 1.exe
+C:\Users\Soma\Documents\C#2\Morse 1\Morse 1\obj\Debug\Morse 1.pdb
